@@ -1,1 +1,1 @@
-# Slingshot-Stage-1
+# SlingShot Game
